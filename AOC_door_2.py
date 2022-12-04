@@ -86,6 +86,7 @@ print(my_scores)
 print(sum(my_scores))
 
 ###
+### more concise ... but never finished :D
 ###
 
 # rock A
